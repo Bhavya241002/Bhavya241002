@@ -13,16 +13,16 @@
 
 - 📫 How to reach me **bhavyalvr@gmail.com**
   
-- 💡 Expertise: Unleashing the Data Magic
-  <p align="left">            🤖 Machine Learning: Crafting predictive models that decode the language of data.
-   <p align="left">📷 OpenCV and Image Analysis: Unveiling the unseen through pixel wizardry.
-   <p align="left">📝 Natural Language Processing: Turning words into meaningful insights.
-   <p align="left">🧠 Deep Learning and Neural Networks: Training models to think like us, but faster!
-   <p align="left">🐍 Python Mastery: Weaving algorithms into elegant code tapestries.
-   <p align="left">📊 Data Analysis and Statistics: Navigating the data maze to uncover hidden gems.
-   <p align="left"> 📈 Data Visualization: Transforming numbers into visual narratives.
-   <p align="left">🎲 SQL and MySQL: Taming the data beasts lurking in databases.
-   <p align="left">📊 Tableau Storyteller: Creating data symphonies that resonate.
+**💡 Expertise: Unleashing the Data Magic</h1>**
+  - <p align="left">            🤖 Machine Learning: Crafting predictive models that decode the language of data.
+  - <p align="left">📷 OpenCV and Image Analysis: Unveiling the unseen through pixel wizardry.
+  - <p align="left">📝 Natural Language Processing: Turning words into meaningful insights.
+  - <p align="left">🧠 Deep Learning and Neural Networks: Training models to think like us, but faster!
+  - <p align="left">🐍 Python Mastery: Weaving algorithms into elegant code tapestries.
+  - <p align="left">📊 Data Analysis and Statistics: Navigating the data maze to uncover hidden gems.
+  - <p align="left"> 📈 Data Visualization: Transforming numbers into visual narratives.
+  - <p align="left">🎲 SQL and MySQL: Taming the data beasts lurking in databases.
+  - <p align="left">📊 Tableau Storyteller: Creating data symphonies that resonate.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
