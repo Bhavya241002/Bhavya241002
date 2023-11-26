@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@bhavyalvr](https://medium.com/@bhavyalvr)
 
-- 💬 Ask me about **Python, Machine Learning Algorithms**
+- 💬 Ask me about **Python, Data Analysis and Machine Learning Algorithms**
 
 - 📫 How to reach me **bhavyalvr@gmail.com**
 
